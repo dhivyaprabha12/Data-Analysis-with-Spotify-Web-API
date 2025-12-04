@@ -9,25 +9,25 @@ This project explores music analytics using the Spotify Web API, focusing on ext
  
 - API integration using Spotipy to fetch track metadata
 - Storage of track information in a MySQL database
--Analysis of key metrics such as:
--Most popular track
--Average popularity
--Duration patterns
--Data visualizations using Matplotlib
--Automation to process multiple track URLs from a file
+- Analysis of key metrics such as:
+- Most popular track
+- Average popularity
+- Duration patterns
+- Data visualizations using Matplotlib
+- Automation to process multiple track URLs from a file
 
 **Tech Stack**
 
--Python
--Spotify Web API (Spotipy)
--MySQL
--Pandas
--Matplotlib
+- Python
+- Spotify Web API (Spotipy)
+- MySQL
+- Pandas
+- Matplotlib
 
 **Workflow**
 
--Extract track IDs from Spotify URLs
--Fetch metadata (artist, album, duration, popularity, etc.)
--Store data in a structured MySQL table
--Run SQL queries for analytical insights
--Visualize key metrics using bar charts
+- Extract track IDs from Spotify URLs
+- Fetch metadata (artist, album, duration, popularity, etc.)
+- Store data in a structured MySQL table
+- Run SQL queries for analytical insights
+- Visualize key metrics using bar charts
