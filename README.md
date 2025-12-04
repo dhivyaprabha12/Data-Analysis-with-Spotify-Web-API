@@ -7,8 +7,8 @@ This project explores music analytics using the Spotify Web API, focusing on ext
 
  **Features**
  
--API integration using Spotipy to fetch track metadata
--Storage of track information in a MySQL database
+- API integration using Spotipy to fetch track metadata
+- Storage of track information in a MySQL database
 -Analysis of key metrics such as:
 -Most popular track
 -Average popularity
